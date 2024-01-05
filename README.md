@@ -1,7 +1,7 @@
 # Prerequisites
-#git #config #core.sshCommand="~/.ssh/yourprivatekey #-F #/dev/null"
-#git #config #user.name #"AbdallahAlfadly"
-#git #config #user.email #"elfodaly@gmail.com"
+<!-- git config core.sshCommand="~/.ssh/yourprivatekey -F /dev/null"
+git config user.name "AbdallahAlfadly"
+git config user.email "elfodaly@gmail.com" -->
 - JDK 11
 - Maven 3
 - MySQL 8 
